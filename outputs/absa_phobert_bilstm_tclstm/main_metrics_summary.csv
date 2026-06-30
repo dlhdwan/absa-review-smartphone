@@ -1,0 +1,6 @@
+metric,score
+Stage 1 aspect F1,0.8887492138306087
+Stage 2 macro-F1,0.8238347433845776
+Stage 2 weighted-F1,0.9223954600221831
+Stage 2 neutral F1,0.5938748335552596
+End-to-end F1,0.8008048284737199
